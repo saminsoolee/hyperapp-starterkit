@@ -1,6 +1,6 @@
 # Premium Korean BBQ Website
 
-A project website designed for restaurants using HTML, SCSS, and JSX
+A project web application designed for restaurants using HTML, SCSS, and JSX
 
 The website is broken down into sections of :
 1. Header 
@@ -11,11 +11,10 @@ The website is broken down into sections of :
 5. Review
 6. Footer
 
+
 **Current Feature List:**
 1. Functionality on the reserve button to hover and change colors.
 2. Hover over email and social media icons on the footer.
-
-
 
 **Planned Additions:**
 1. Populated the DOM dynamically instead of hard code.
@@ -28,6 +27,6 @@ The website is broken down into sections of :
 2. Learned SCSS to style the web application.
 3. Giving functionality to buttons and social media icons. 
 
+
 **Screenshots:**
-1. Can be found in the restaurant-screenshots
-	a. Folder will contain: Desktop and iPad view of the website. 
+1. Can be found in the restaurant-screenshots which will hold desktop and iPad responsive views of the web application. 
