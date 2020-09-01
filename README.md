@@ -11,6 +11,9 @@ The website is broken down into sections of :
 5. Review
 6. Footer
 
+**Screenshots:**
+1. Can be found in the folder:restaurant-screenshots which will hold the desktop and iPad responsive views of the web application. 
+
 
 **Current Feature List:**
 1. Functionality on the reserve button to hover and change colors.
@@ -27,6 +30,3 @@ The website is broken down into sections of :
 2. Learned SCSS to style the web application.
 3. Giving functionality to buttons and social media icons. 
 
-
-**Screenshots:**
-1. Can be found in the restaurant-screenshots which will hold desktop and iPad responsive views of the web application. 
