@@ -30,4 +30,4 @@ The website is broken down into sections of :
 
 **Screenshots:**
 1. Can be found in the restaurant-screenshots
-	a. Folder will contain: Desktop, iPad, and Mobile view of the website. 
+	a. Folder will contain: Desktop and iPad view of the website. 
