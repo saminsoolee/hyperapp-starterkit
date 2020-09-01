@@ -1,4 +1,4 @@
-#Premium Korean BBQ Website
+# Premium Korean BBQ Website
 
 A project website designed for restaurants using HTML, SCSS, and JSX
 
