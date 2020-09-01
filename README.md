@@ -12,7 +12,7 @@ The website is broken down into sections of :
 6. Footer
 
 **Screenshots:**
-1. Can be found in the folder:restaurant-screenshots which will hold the desktop and iPad responsive views of the web application. 
+1. Can be found in the folder: restaurant-screenshots which will hold the desktop and iPad responsive views of the web application. 
 
 
 **Current Feature List:**
